@@ -1,12 +1,12 @@
 # Hail there ! 👋
 
-My name is Rafael Bife. I am a Mechanical Engeeniring studying programming 🥐
+My name is Rafael Bife. I am a Mechanical Engeeniring studying programming 🛠
 
 ## 🔭 I’m currently working as ...
 
 Data Center Infrastructure Analyst.
 
-## 🛠  ⚡ Fun fact:
+## ⚡ Fun fact:
 
 I am passionate about learning.
 
